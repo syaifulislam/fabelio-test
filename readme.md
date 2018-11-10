@@ -1,6 +1,3 @@
-## Task
-To take image url and position as input and display image as slider in ascending 
-order of positon
 
 ## Prerequisite
 1. You need to have composer for Laravel
